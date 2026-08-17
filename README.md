@@ -154,17 +154,3 @@ Madhunisha Gandi
 MCA | Aspiring Data Analyst
 
 Skills: SQL | Python | Power BI | Excel | Data Analysis
-
-⚠️ Attribution
-
-This project was developed using an existing open-source project as a reference and starting point. The original project and its structure have been used for learning and portfolio development.
-
-The original repository is available here:
-
-https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI
-
-The original project is distributed under the MIT License. Appropriate attribution and licensing terms should be retained when reusing the original work.
-
-📜 License
-
-This project includes the licensing terms applicable to the original source material. Please refer to the original project’s license for details.
